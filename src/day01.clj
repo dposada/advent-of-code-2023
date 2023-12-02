@@ -1,4 +1,4 @@
-(ns day1
+(ns day01
   (:require [clojure.string :as str])
   (:import (java.io BufferedReader StringReader)))
 
